@@ -1,4 +1,4 @@
-## Fixed-Point Arithmetic Performance Enhancement
+# Fixed-Point Arithmetic Performance Enhancement
 # Overview
 This project demonstrates how to use fixed-point arithmetic to improve performance on systems without 
 a Floating Point Unit (FPU), such as certain microcontrollers (MCUs). The provided code includes fixed-point 
@@ -8,7 +8,7 @@ multiplication and division examples and compares their performance to tradition
 Using Fixed-Point Arithmetic to Improve Performance on Systems Without an FPU.c: Contains the implementation 
 of fixed-point arithmetic operations and performance comparison tests.
 
-## Key Concepts
+# Key Concepts
 # Fixed-Point Arithmetic
 Fixed-point arithmetic represents real numbers as integers with a fixed number of bits for the integer and 
 fractional parts. This method allows efficient arithmetic operations on systems that lack an FPU, providing 
